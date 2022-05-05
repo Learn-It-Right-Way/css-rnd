@@ -1,2 +1,2 @@
-# css-rnd
-CSS features R n D
+# CSS Research and Developments
+1. Animations
